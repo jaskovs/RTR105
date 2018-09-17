@@ -13,14 +13,12 @@ Datormācības kursa elektroniskā klade
 **Ctrl+Shift+T** - Atver teminālī jaunu cilni  
 **Ctrl+Shift+F1 līdz F7** - Pārslēgšanās starp lietotājiem  
 **cd** - Došanās uz directory  
-- ../ - Doties limeni zemāk  
+- ../ - Doties līmeni zemāk  
 - ./ - Strādāt šajā pašā līmenī  
-- cd - dodas uz _home_ directory  
+- cd - dodas uz _home_ directory   
 
-**Piemēri**  
 > `cd Music/`  
-> `cd ~` - Doties uz home  
-> `cd`  
+> `cd ~`
 
 **mkdir** - Izveidot mapi  
 `mkdir JaunaMape/`  
