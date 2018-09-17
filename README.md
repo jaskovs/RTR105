@@ -35,3 +35,6 @@ Datormācības kursa elektroniskā klade
 > `rm fails1.txt`
 
 **chmod**
+
+**cp** - Kopēt failu vai mapi 
+> `cp fails1.txt fails2.txt`
