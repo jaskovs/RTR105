@@ -2,13 +2,130 @@
     2  quartus
     3  ]]]]]]]]]]]]]]]]
     4  firefox $
-    5  sh
-    6  hoami
-    7  whoami
-    8  ;)
-    9  who
-   10  ls
-   11  ls .bash_history
-   12  .bash_history
-   13  history 
-   14  history > history_20180917.txt
+    5  who
+    6  exit
+    7  firefox
+    8  firefox &
+    9  a
+   10  n
+   11  uname
+   12  uname 
+   13  man uname
+   14  uname -a
+   15  man uname
+   16  uname -q
+   17  man uname
+   18  uname -o
+   19  uname -a
+   20  uname -k
+   21  man uname
+   22  echo $0
+   23  sh
+   24  sh
+   25  hoami
+   26  whoami
+   27  ;)
+   28  who
+   29  ls
+   30  ls .bash_history
+   31  .bash_history
+   32  history 
+   33  history > history_20180917.txt
+   34  ls
+   35  cat history_20180917.txt 
+   36  sh
+   37  pwd
+   38  cd music
+   39  cs Music
+   40  cd Music
+   41  cs ..
+   42  cd .
+   43  pwd
+   44  cd ..
+   45  pwd
+   46  cs Music/
+   47  cd Music/
+   48  cd ..
+   49  cs ..
+   50  cd ..
+   51  ls -la
+   52  cs root
+   53  cd root
+   54  cs /home/user
+   55  cd /home/user
+   56  pwd
+   57  cd ..
+   58  `
+   59  ~
+   60  ~
+   61  pwd
+   62  cd ~
+   63  pwd
+   64  cd /
+   65  cd
+   66  mkdir ManaMape
+   67  ls
+   68  cs ManaMape/
+   69  cd ManaMape/
+   70  ls
+   71  cs ..
+   72  cd ..
+   73  rmdir ManaMape/
+   74  mkdir ManaMape
+   75  cs ManaMape/
+   76  cd ManaMape/
+   77  mkdir mape
+   78  cs mape/
+   79  cd mape/
+   80  ls
+   81  cd
+   82  rmdir ManaMape/
+   83  rdmdir -a ManaMape/
+   84  rmdir --ignore-fail-on-non-empty ManaMape/
+   85  man rm
+   86  rm -r ManaMape/
+   87  ls
+   88  echo "Teksts"
+   89  aaa
+   90  echo "Teksrs`nTeksts\nTeksts"
+   91  "
+   92  qqqq
+   93  q
+   94  exit
+   95  echo
+   96  echo "Teksts\nTeksts\nTeksts"
+   97  echo -e "Teksts\nTeksts\nTeksts"
+   98  echo "Teksts" > fails1.txt
+   99  ls -l
+  100  cat fails1.txt 
+  101  echo "Cits teksts" > fails1.txt 
+  102  cat fails1.txt 
+  103  echo "Teksts" > fails1.txt 
+  104  echo "Cits teksts" >> fails1.txt 
+  105  cat fails1.txt 
+  106  chmod 500 fails1.txt 
+  107  ls -l
+  108  echo "Cits teksts" >> fails1.txt 
+  109  nano fails1.txt 
+  110  ls -l
+  111  sudo
+  112  cp fails2.txt fails3.txt
+  113  lsa -a
+  114  ls -a
+  115  mv fails1.txt Music/
+  116  cd music\
+  117  mv fails*.txt Music/
+  118  cd Music/
+  119  ls -l
+  120  mv fails3.txt fails4.txt
+  121  ls -l
+  122  mv fails1.txt ../ fails101.txt
+  123  mv fails1.txt ../fails101.txt
+  124  cd ..
+  125  ls
+  126  mv Music/*.txt ./
+  127  ls
+  128  rm fails*.txt
+  129  ls
+  130  history > history_20180917.xt
+  131  history > history_20180917.txt
