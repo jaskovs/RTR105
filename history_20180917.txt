@@ -1,0 +1,14 @@
+    1  VirtualBox --startvm XP
+    2  quartus
+    3  ]]]]]]]]]]]]]]]]
+    4  firefox $
+    5  sh
+    6  hoami
+    7  whoami
+    8  ;)
+    9  who
+   10  ls
+   11  ls .bash_history
+   12  .bash_history
+   13  history 
+   14  history > history_20180917.txt
