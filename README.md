@@ -12,3 +12,26 @@ Datormācības kursa elektroniskā klade
 **ls** - Parāda failus un mapes un datorā  
 **Ctrl+Shift+T** - Atver teminālī jaunu cilni  
 **Ctrl+Shift+F1 līdz F7** - Pārslēgšanās starp lietotājiem  
+**cd** - Došanās uz directory  
+- ../ - Doties limeni zemāk  
+- ./ - Strādāt šajā pašā līmenī  
+- cd - dodas uz _home_ directory  
+
+**Piemēri**  
+> `cd Music/`  
+> `cd ~` - Doties uz home  
+> `cd`  
+
+**mkdir** - Izveidot mapi  
+`mkdir JaunaMape/`  
+
+**cat** - Atver teksta failu  
+> `cat fails1.txt`  
+
+**mv** Pārvieto failu  
+> `mv fails1.txt ../ fails101.txt`  
+
+**rm** - Idzēst failu
+> `rm fails1.txt`
+
+**chmod**
