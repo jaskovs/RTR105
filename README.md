@@ -1,3 +1,4 @@
+
 # RTR105
 Datormācības kursa elektroniskā klade  
 # Operētājssistēmas dabības pamatprincips  
@@ -36,3 +37,12 @@ Datormācības kursa elektroniskā klade
 
 **cp** - Kopēt failu vai mapi 
 > `cp fails1.txt fails2.txt`
+
+**PATH=$PATH:~** - Pievieno mapi pie sistēmas mapēm
+> `PATH=$PATH`
+
+*git clone* - Lejuplādē visus teksta faius no GitHub repository 
+> `git clone https://github.com/jaskovs/RTR105`
+
+
+
