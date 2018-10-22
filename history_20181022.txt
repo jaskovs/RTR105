@@ -1,0 +1,11 @@
+    1  VirtualBox --startvm XP
+    2  quartus
+    3  firefox &
+    4  nano readme.md
+    5  cd RTR105
+    6  CD
+    7  cd
+    8  ipython
+    9  ipyh
+   10  ipython
+   11  history > history_20181022.txt
